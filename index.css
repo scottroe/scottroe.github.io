@@ -1,21 +1,37 @@
 html {
-     height: 100%;
+     width: 100%;
    }
    body {
-      width: 600px;
+
       height:100%;
       margin:0 auto;
-      background-color: teal;
-      color: white;
+      background-color:#b2a4a1;
+      color: ;
       font-family: fantasy;
    }
+   p {
+     text-align: center;
+     font-weight: bold;
+     font-family:fantaxy;
+     font-size: 16px;
+     color:#02097A; }
+
+     .photo1box
+          {display: flex;
+            justify-content: center;
+          }
+          .center {
+            width: 800px;
+          }
 
    header {
        background-color: ;
        padding: ;
-       font-size: ;
+       font-size: 24px;
+       font-weight: bold;
        display: block;
        text-align: center;
+       color:#02097A;
    }
    header img{
      width: 600px;
